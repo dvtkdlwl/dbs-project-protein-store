@@ -25,4 +25,6 @@ A database-driven protein store management system built for DBMS coursework.
 
 ## Authors
 
-* Your Name
+* Divit Khandelwal
+* Nitya Mehrotra
+* Rijul Yadav
