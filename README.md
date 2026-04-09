@@ -1,6 +1,6 @@
 # DBS Project — Protein Store
 
-A database-driven protein store management system built for DBMS coursework.
+A database-driven protein store management system built as a final project for my Database Systems lab.
 
 ## Features
 
